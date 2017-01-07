@@ -1,4 +1,4 @@
-# web2py-cable-TV-Application
+# Web2py-cable-TV-Application
 
 open web2py.app.Kablo_TV.w2p file on your localhost.
 
