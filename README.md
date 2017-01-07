@@ -2,7 +2,7 @@
 
 open web2py.app.Kablo_TV.w2p file on your localhost.
 
-install and open web2py on your localhost 
+install and open web2py on your localhost. 
 
 and then upload this package. view or edit project.
 
